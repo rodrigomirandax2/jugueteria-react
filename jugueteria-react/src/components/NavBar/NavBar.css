@@ -1,0 +1,15 @@
+.Tabs {
+    display: flex; /* Activa Flexbox */
+    justify-content: space-between; /* Separa los elementos a los extremos */
+    align-items: center; /* Alinea los elementos verticalmente */
+    background-color: black;
+    margin-top: 0px !important;
+}
+
+.Tab{
+    color:white !important;
+}
+
+.Avatar{
+    margin:5px !important;
+}
