@@ -1,11 +1,15 @@
 .ShoppingCartIcon{
     color:white !important;
     margin-top: 10px !important;
-    margin-left: 60% !important;
+    margin-left: 70% !important;
+    position: absolute;
+    right: 2% !important;
 }
 
 .label{
     color: white !important;
     padding-left: 2px !important;
     margin-top: 10px !important;
+    position: absolute;
+    right: 1% !important;
 }
