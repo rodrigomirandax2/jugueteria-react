@@ -1,4 +1,26 @@
-.title{
+
+.Card{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin: 2vh;
+}
+
+.Typography{
+    font-size: 17px !important;
+    font-weight: bold;
+}
+
+.Precio{
     font-size: 25px !important;
+    font-weight: bold;
+}
+
+.Descuento{
+    text-decoration:line-through;
+    font-size: 17px !important;
+}
+
+.Oferta{
+    color:red;
+    font-size: 26px !important;
     font-weight: bold;
 }

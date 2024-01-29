@@ -6,8 +6,11 @@
     margin-top: 0px !important;
 }
 
-.Tab{
+.Link{
     color:white !important;
+    padding-left: 2vh;
+    padding-right: 2vh;
+    padding-top: 1.5vh;
 }
 
 .Avatar{
